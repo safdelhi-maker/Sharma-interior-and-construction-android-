@@ -1,0 +1,17 @@
+{
+  "name": "Sharma Interior & Construction",
+  "short_name": "Sharma Interior",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f2f4f6",
+  "theme_color": "#10243a",
+  "description": "Interior finishing consultant in Delhi NCR and Shimla.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
